@@ -33,9 +33,9 @@ The approach evaluates three properties:
 ## Repository Structure
 
 - `analysis/`: Scripts for analyzing experimental results for each research question.
-- `use-cases/face-detection/`: Face detection experiments including algorithms, models and data.
-- `use-cases/screw-detection/`: Screw detection experiments including algorithms, models and data.
-- `use-cases/sticker-detection/`: Sticker detection experiments including algorithms, models and data.
+- `use-cases/face-detection/`: Face detection experiments, including algorithms, models, and data. The experiments use images from the publicly available [WIDER FACE benchmark](http://shuoyang1213.me/WIDERFACE/).
+- `use-cases/screw-detection/`: Screw detection experiments, including algorithms, models, and data.
+- `use-cases/sticker-detection/`: Sticker detection experiments, including algorithms, models, and data.
 
 
 ## Installation
