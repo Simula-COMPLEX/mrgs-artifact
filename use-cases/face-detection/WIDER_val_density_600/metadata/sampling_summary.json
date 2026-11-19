@@ -1,0 +1,56 @@
+{
+  "ground_truth_file": "/Users/erblinisaku/Desktop/RoboSAPIENS/PAL/face_detection/wider_face_split/wider_face_val_bbx_gt.txt",
+  "images_root": "/Users/erblinisaku/Desktop/RoboSAPIENS/PAL/face_detection/WIDER_val/images",
+  "output_directory": "/Users/erblinisaku/Desktop/RoboSAPIENS/PAL/face_detection/WIDER_val_density_600",
+  "filter_invalid_faces_for_density": true,
+  "exclude_zero_face_images": true,
+  "flat_image_directories": true,
+  "flat_filename_format": "event-folder__original-filename",
+  "image_export_mode": "copy",
+  "random_seed": 42,
+  "sample_size_per_group": 200,
+  "total_sample_size": 600,
+  "num_annotated_images": 3226,
+  "num_eligible_images": 3226,
+  "percentiles": {
+    "minimum": 1.0,
+    "p10": 1.0,
+    "p25_q1": 1.0,
+    "p50_q2_median": 3.0,
+    "p75_q3": 9.0,
+    "p90": 23.0,
+    "p95": 40.75,
+    "maximum": 708.0,
+    "mean": 12.12740235585865,
+    "standard_deviation": 39.25158225273442
+  },
+  "density_definitions": {
+    "low_density": "1 <= object_count <= 3",
+    "medium_density": "4 <= object_count <= 9",
+    "high_density": "object_count >= 10"
+  },
+  "available_group_counts": {
+    "low_density": 1759,
+    "medium_density": 691,
+    "high_density": 776
+  },
+  "sampled_group_counts": {
+    "low_density": 200,
+    "medium_density": 200,
+    "high_density": 200
+  },
+  "group_sampling_seeds": {
+    "low_density": 42,
+    "medium_density": 43,
+    "high_density": 44
+  },
+  "annotation_path_format": "<density_group>/<flat_filename>",
+  "annotation_outputs": {
+    "combined_original": "annotations/sampled_600_original_gt.txt",
+    "combined_valid_only": "annotations/sampled_600_valid_only_gt.txt",
+    "per_group_original": true,
+    "per_group_valid_only": true,
+    "flat_annotation_csv": "metadata/sampled_600_annotations_flat.csv",
+    "flat_valid_only_annotation_csv": "metadata/sampled_600_annotations_valid_only_flat.csv"
+  }
+}

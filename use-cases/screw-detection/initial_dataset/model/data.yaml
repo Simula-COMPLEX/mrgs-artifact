@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../val/images
+test: ../test/images
+
+nc: 3
+names: ['holder', 'noscrew', 'screw']
+
+roboflow:
+  workspace: malaika-din-hashmi
+  project: robosapiens
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/malaika-din-hashmi/robosapiens/dataset/5

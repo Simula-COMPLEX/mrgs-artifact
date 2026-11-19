@@ -1,0 +1,22 @@
+
+# Numerical computing and data processing
+numpy
+pandas
+scipy
+
+# Image processing
+opencv-python
+
+# Deep learning and object detection
+torch
+torchvision
+ultralytics
+
+# Multi-objective optimization
+pymoo
+
+# Statistical analysis
+statsmodels
+
+# Data visualization
+matplotlib

@@ -1,0 +1,711 @@
+low_density/43--Row_Boat__43_Row_Boat_Rowboat_43_500.jpg
+1
+447 290 28 37 1 0 0 0 1 0
+low_density/41--Swimming__41_Swimming_Swimmer_41_68.jpg
+1
+292 178 98 56 1 0 0 0 0 1
+low_density/53--Raid__53_Raid_policeraid_53_928.jpg
+3
+243 196 107 72 1 0 0 0 0 1
+699 136 35 56 1 0 0 0 0 0
+767 135 50 57 1 0 0 0 0 0
+low_density/55--Sports_Coach_Trainer__55_Sports_Coach_Trainer_sportcoaching_55_325.jpg
+1
+328 22 336 478 0 0 0 0 0 0
+low_density/2--Demonstration__2_Demonstration_Protesters_2_345.jpg
+3
+246 56 62 68 0 0 0 0 0 0
+432 56 62 92 0 0 0 0 0 0
+680 80 64 84 0 0 0 0 0 0
+low_density/41--Swimming__41_Swimming_Swimming_41_379.jpg
+1
+538 332 164 162 1 0 0 0 1 1
+low_density/56--Voter__56_Voter_peoplevoting_56_305.jpg
+2
+73 228 25 35 0 0 0 0 0 0
+448 196 27 55 0 0 0 0 1 0
+low_density/19--Couple__19_Couple_Couple_19_139.jpg
+2
+366 160 160 212 0 0 0 0 0 0
+514 130 132 204 0 0 0 0 0 0
+low_density/52--Photographers__52_Photographers_photographertakingphoto_52_456.jpg
+1
+556 212 198 246 0 0 0 0 1 0
+low_density/2--Demonstration__2_Demonstration_Political_Rally_2_741.jpg
+3
+578 483 38 52 1 0 0 0 0 0
+737 479 20 23 2 0 0 0 0 0
+124 511 29 45 1 0 0 0 0 1
+low_density/12--Group__12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_852.jpg
+1
+434 176 156 218 0 0 0 0 0 0
+low_density/16--Award_Ceremony__16_Award_Ceremony_Awards_Ceremony_16_490.jpg
+1
+337 179 353 473 0 0 0 0 0 0
+low_density/21--Festival__21_Festival_Festival_21_100.jpg
+3
+668 84 142 190 0 0 0 0 2 0
+442 432 120 168 0 0 0 0 2 0
+108 294 62 84 1 0 0 0 2 0
+low_density/13--Interview__13_Interview_Interview_2_People_Visible_13_155.jpg
+1
+343 172 355 481 0 0 0 0 0 0
+low_density/4--Dancing__4_Dancing_Dancing_4_983.jpg
+2
+306 150 256 296 0 0 0 0 0 0
+860 40 150 270 0 0 0 0 0 0
+low_density/31--Waiter_Waitress__31_Waiter_Waitress_Waiter_Waitress_31_373.jpg
+1
+80 6 302 328 0 0 1 0 0 0
+low_density/24--Soldier_Firing__24_Soldier_Firing_Soldier_Firing_24_405.jpg
+1
+321 378 63 84 1 0 1 0 0 0
+low_density/40--Gymnastics__40_Gymnastics_Gymnastics_40_161.jpg
+1
+584 194 70 126 0 0 0 0 0 0
+low_density/51--Dresses__51_Dresses_wearingdress_51_763.jpg
+2
+120 128 220 262 0 0 0 0 0 0
+546 170 256 288 0 0 0 0 0 0
+low_density/44--Aerobics__44_Aerobics_Aerobics_44_755.jpg
+1
+467 251 176 200 1 0 0 0 0 0
+low_density/13--Interview__13_Interview_Interview_2_People_Visible_13_425.jpg
+1
+488 133 189 277 0 0 0 0 0 0
+low_density/26--Soldier_Drilling__26_Soldier_Drilling_Soldiers_Drilling_26_606.jpg
+2
+220 74 126 170 1 0 0 0 0 0
+642 102 124 184 1 0 0 0 0 0
+low_density/55--Sports_Coach_Trainer__55_Sports_Coach_Trainer_sportcoaching_55_218.jpg
+1
+728 70 56 56 1 0 0 0 0 1
+low_density/32--Worker_Laborer__32_Worker_Laborer_Worker_Laborer_32_468.jpg
+1
+352 86 104 166 0 0 0 0 0 0
+low_density/25--Soldier_Patrol__25_Soldier_Patrol_Soldier_Patrol_25_882.jpg
+1
+772 508 98 62 2 0 0 0 1 0
+low_density/39--Ice_Skating__39_Ice_Skating_iceskiing_39_765.jpg
+1
+466 442 40 49 2 0 0 0 0 0
+low_density/28--Sports_Fan__28_Sports_Fan_Sports_Fan_28_862.jpg
+3
+435 125 129 161 1 0 0 0 0 0
+212 491 43 61 2 0 0 0 0 0
+295 508 46 62 2 0 0 0 2 0
+low_density/52--Photographers__52_Photographers_taketouristphotos_52_86.jpg
+1
+404 338 102 132 0 0 0 0 0 0
+low_density/37--Soccer__37_Soccer_soccer_ball_37_113.jpg
+2
+514 144 132 174 0 0 0 0 0 0
+706 78 75 93 1 0 0 0 2 0
+low_density/13--Interview__13_Interview_Interview_Sequences_13_373.jpg
+1
+488 190 76 90 1 0 0 0 0 0
+low_density/9--Press_Conference__9_Press_Conference_Press_Conference_9_658.jpg
+1
+247 178 364 491 0 0 0 0 0 0
+low_density/35--Basketball__35_Basketball_basketballgame_ball_35_341.jpg
+3
+240 240 105 175 0 0 0 0 0 0
+501 190 125 163 0 0 0 0 0 0
+653 25 125 183 0 0 0 0 0 0
+low_density/9--Press_Conference__9_Press_Conference_Press_Conference_9_391.jpg
+1
+322 12 414 590 0 0 0 0 0 0
+low_density/45--Balloonist__45_Balloonist_Balloonist_45_974.jpg
+2
+860 67 43 57 2 0 0 0 0 0
+410 241 219 298 0 0 0 0 0 0
+low_density/29--Students_Schoolkids__29_Students_Schoolkids_Students_Schoolkids_29_590.jpg
+3
+382 97 108 125 0 0 0 0 0 0
+396 27 62 68 2 0 0 0 2 0
+158 23 43 48 2 0 0 0 0 0
+low_density/40--Gymnastics__40_Gymnastics_Gymnastics_40_242.jpg
+1
+486 460 90 52 1 0 0 0 0 1
+low_density/1--Handshaking__1_Handshaking_Handshaking_1_827.jpg
+3
+190 60 72 168 0 0 0 0 0 0
+412 170 72 124 0 0 0 0 0 0
+760 132 74 140 0 0 0 0 0 0
+low_density/13--Interview__13_Interview_Interview_2_People_Visible_13_374.jpg
+1
+408 34 212 306 1 0 0 0 0 0
+low_density/57--Angler__57_Angler_peoplefishing_57_866.jpg
+2
+614 94 136 170 0 0 0 0 0 0
+250 150 126 166 0 0 0 0 0 0
+low_density/19--Couple__19_Couple_Couple_19_810.jpg
+2
+458 335 20 26 1 0 0 0 0 0
+480 346 19 21 1 0 0 0 0 0
+low_density/46--Jockey__46_Jockey_Jockey_46_728.jpg
+1
+370 208 186 240 0 0 0 0 0 1
+low_density/12--Group__12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_67.jpg
+2
+304 30 150 182 0 0 1 0 0 0
+616 204 138 200 0 0 0 0 2 0
+low_density/15--Stock_Market__15_Stock_Market_Stock_Market_15_382.jpg
+1
+290 88 104 168 0 0 0 0 0 0
+low_density/49--Greeting__49_Greeting_peoplegreeting_49_98.jpg
+3
+94 100 100 150 0 0 0 0 0 0
+442 218 74 118 0 0 0 0 0 0
+896 66 82 126 0 0 0 0 1 0
+low_density/40--Gymnastics__40_Gymnastics_Gymnastics_40_627.jpg
+1
+649 1066 201 207 0 0 0 0 2 1
+low_density/46--Jockey__46_Jockey_Jockey_46_188.jpg
+2
+346 59 49 66 0 0 0 0 0 0
+453 114 46 59 0 0 0 0 0 0
+low_density/56--Voter__56_Voter_peoplevoting_56_712.jpg
+1
+192 50 152 222 0 0 0 0 0 0
+low_density/43--Row_Boat__43_Row_Boat_Rowboat_43_341.jpg
+2
+331 198 10 19 1 0 0 0 0 0
+428 112 12 21 1 0 0 0 0 0
+low_density/51--Dresses__51_Dresses_wearingdress_51_348.jpg
+1
+480 109 122 163 0 0 0 0 0 0
+low_density/14--Traffic__14_Traffic_Traffic_14_722.jpg
+2
+248 82 15 15 2 0 0 0 0 1
+436 112 5 8 2 0 0 0 2 0
+low_density/34--Baseball__34_Baseball_Baseball_34_560.jpg
+1
+579 133 24 32 0 0 0 0 0 0
+low_density/51--Dresses__51_Dresses_wearingdress_51_588.jpg
+2
+160 142 123 173 0 1 0 0 0 0
+654 93 108 148 0 0 0 0 0 0
+low_density/39--Ice_Skating__39_Ice_Skating_Ice_Skating_39_875.jpg
+3
+766 304 78 76 0 0 0 0 0 0
+704 192 56 66 1 0 0 0 0 0
+472 282 58 70 1 0 0 0 2 0
+low_density/58--Hockey__58_Hockey_icehockey_puck_58_330.jpg
+2
+284 86 68 88 1 0 0 0 0 0
+598 48 62 88 1 0 0 0 0 0
+low_density/9--Press_Conference__9_Press_Conference_Press_Conference_9_114.jpg
+1
+464 92 205 316 0 0 0 0 0 0
+low_density/24--Soldier_Firing__24_Soldier_Firing_Soldier_Firing_24_10.jpg
+1
+168 164 52 64 1 0 0 0 0 0
+low_density/57--Angler__57_Angler_peoplefishing_57_1012.jpg
+3
+222 320 70 68 0 0 0 0 0 0
+398 158 102 112 1 0 0 0 0 0
+632 214 112 128 0 0 1 0 0 0
+low_density/47--Matador_Bullfighter__47_Matador_Bullfighter_matadorbullfighting_47_746.jpg
+1
+512 263 55 52 1 0 0 0 0 0
+low_density/9--Press_Conference__9_Press_Conference_Press_Conference_9_328.jpg
+2
+236 114 120 204 0 0 0 0 0 0
+554 166 128 188 0 0 1 0 0 0
+low_density/26--Soldier_Drilling__26_Soldier_Drilling_Soldiers_Drilling_26_710.jpg
+1
+281 421 603 746 0 0 0 0 0 0
+low_density/1--Handshaking__1_Handshaking_Handshaking_1_465.jpg
+1
+388 172 400 508 0 0 0 0 0 0
+low_density/15--Stock_Market__15_Stock_Market_Stock_Market_15_846.jpg
+1
+277 217 431 687 0 0 0 0 0 0
+low_density/30--Surgeons__30_Surgeons_Surgeons_30_491.jpg
+2
+244 74 250 274 0 0 0 0 2 0
+530 120 338 236 0 0 0 0 2 1
+low_density/26--Soldier_Drilling__26_Soldier_Drilling_Soldiers_Drilling_26_336.jpg
+2
+637 218 38 41 0 1 0 0 1 0
+84 234 37 45 0 0 0 0 0 0
+low_density/47--Matador_Bullfighter__47_Matador_Bullfighter_Matador_Bullfighter_47_703.jpg
+1
+470 130 128 150 0 0 0 0 0 0
+low_density/16--Award_Ceremony__16_Award_Ceremony_Awards_Ceremony_16_524.jpg
+2
+438 284 102 138 0 0 0 0 0 0
+848 314 86 140 0 0 0 0 0 0
+low_density/37--Soccer__37_Soccer_soccer_ball_37_32.jpg
+1
+370 130 58 78 0 0 0 0 0 0
+low_density/49--Greeting__49_Greeting_peoplegreeting_49_203.jpg
+1
+396 36 304 406 1 0 0 0 1 0
+low_density/7--Cheering__7_Cheering_Cheering_7_835.jpg
+1
+345 165 330 405 0 0 0 0 0 0
+low_density/33--Running__33_Running_Running_33_490.jpg
+1
+614 178 74 86 0 0 0 0 0 0
+low_density/31--Waiter_Waitress__31_Waiter_Waitress_Waiter_Waitress_31_769.jpg
+1
+430 76 142 180 0 0 0 0 0 0
+low_density/18--Concerts__18_Concerts_Concerts_18_828.jpg
+1
+610 240 100 154 0 0 0 0 0 0
+low_density/53--Raid__53_Raid_policeraid_53_829.jpg
+1
+668 65 47 57 1 0 0 0 2 0
+low_density/2--Demonstration__2_Demonstration_Protesters_2_291.jpg
+2
+435 619 301 394 0 0 0 0 1 0
+3 904 196 323 0 0 0 0 1 0
+low_density/31--Waiter_Waitress__31_Waiter_Waitress_Waiter_Waitress_31_667.jpg
+2
+280 105 72 130 1 0 0 0 0 0
+704 127 82 97 1 0 0 0 0 0
+low_density/13--Interview__13_Interview_Interview_Sequences_13_134.jpg
+1
+342 100 204 276 0 0 0 0 0 0
+low_density/41--Swimming__41_Swimming_Swimmer_41_401.jpg
+2
+432 133 160 231 0 0 0 0 0 0
+858 920 130 222 0 0 0 0 0 0
+low_density/39--Ice_Skating__39_Ice_Skating_iceskiing_39_495.jpg
+1
+454 72 60 66 1 0 0 0 0 0
+low_density/9--Press_Conference__9_Press_Conference_Press_Conference_9_492.jpg
+1
+262 6 454 478 0 0 0 0 0 0
+low_density/35--Basketball__35_Basketball_playingbasketball_35_199.jpg
+1
+586 202 260 228 0 0 0 0 0 1
+low_density/56--Voter__56_Voter_peoplevoting_56_531.jpg
+1
+610 122 78 118 1 0 0 0 0 0
+low_density/53--Raid__53_Raid_policeraid_53_860.jpg
+1
+250 335 427 624 0 0 0 0 0 0
+low_density/32--Worker_Laborer__32_Worker_Laborer_Worker_Laborer_32_116.jpg
+1
+210 72 86 114 0 0 0 0 0 0
+low_density/28--Sports_Fan__28_Sports_Fan_Sports_Fan_28_86.jpg
+1
+104 816 163 245 0 0 0 0 0 0
+low_density/48--Parachutist_Paratrooper__48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_439.jpg
+2
+622 153 136 184 0 0 0 0 0 0
+148 52 45 60 1 0 0 0 0 0
+low_density/6--Funeral__6_Funeral_Funeral_6_280.jpg
+1
+380 48 348 174 0 1 0 0 0 1
+low_density/28--Sports_Fan__28_Sports_Fan_Sports_Fan_28_130.jpg
+1
+64 28 860 660 0 0 0 0 0 0
+low_density/39--Ice_Skating__39_Ice_Skating_Ice_Skating_39_611.jpg
+1
+338 56 78 106 0 0 0 0 0 0
+low_density/51--Dresses__51_Dresses_wearingdress_51_670.jpg
+1
+334 135 208 288 0 0 0 0 0 0
+low_density/40--Gymnastics__40_Gymnastics_Gymnastics_40_138.jpg
+1
+530 90 90 100 0 0 0 0 0 0
+low_density/5--Car_Accident__5_Car_Accident_Car_Crash_5_451.jpg
+2
+683 163 29 23 1 0 0 0 0 0
+322 147 7 9 2 0 0 0 1 0
+low_density/24--Soldier_Firing__24_Soldier_Firing_Soldier_Firing_24_281.jpg
+3
+387 300 13 15 2 0 0 0 0 0
+185 314 13 15 2 0 0 0 0 0
+714 413 15 18 2 0 0 0 0 0
+low_density/9--Press_Conference__9_Press_Conference_Press_Conference_9_345.jpg
+2
+229 440 133 169 0 0 0 0 1 0
+392 259 232 322 0 0 0 0 0 0
+low_density/61--Street_Battle__61_Street_Battle_streetfight_61_155.jpg
+2
+317 256 40 59 1 1 0 0 0 0
+709 284 49 48 1 1 0 0 0 1
+low_density/54--Rescue__54_Rescue_firemanrescue_54_458.jpg
+1
+162 236 174 220 0 0 0 0 0 0
+low_density/48--Parachutist_Paratrooper__48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_656.jpg
+2
+566 198 32 31 2 0 0 0 2 0
+616 357 22 41 2 0 0 0 2 0
+low_density/39--Ice_Skating__39_Ice_Skating_Ice_Skating_39_44.jpg
+1
+406 109 87 125 0 0 0 0 0 0
+low_density/39--Ice_Skating__39_Ice_Skating_Ice_Skating_39_440.jpg
+2
+444 210 57 81 1 0 0 0 0 0
+492 706 69 111 1 0 0 0 0 0
+low_density/30--Surgeons__30_Surgeons_Surgeons_30_43.jpg
+3
+660 268 230 238 0 0 0 0 2 0
+304 96 242 272 0 0 0 0 2 0
+8 2 214 250 0 0 0 0 2 1
+low_density/20--Family_Group__20_Family_Group_Family_Group_20_750.jpg
+2
+351 75 168 252 0 0 0 0 0 0
+563 200 171 247 0 0 0 0 0 0
+low_density/57--Angler__57_Angler_peoplefishing_57_515.jpg
+1
+297 319 17 21 2 0 1 0 0 0
+low_density/51--Dresses__51_Dresses_wearingdress_51_692.jpg
+2
+167 292 115 176 0 0 0 0 0 0
+679 100 127 162 0 0 0 0 0 0
+low_density/30--Surgeons__30_Surgeons_Surgeons_30_552.jpg
+3
+214 257 27 44 0 0 0 0 1 0
+384 224 32 37 0 0 0 0 2 0
+228 325 34 22 1 0 0 0 2 1
+low_density/28--Sports_Fan__28_Sports_Fan_Sports_Fan_28_663.jpg
+1
+90 129 826 1024 0 0 0 0 0 0
+low_density/3--Riot__3_Riot_Riot_3_716.jpg
+3
+104 66 88 144 0 0 0 0 0 0
+352 138 86 120 0 0 0 0 0 0
+736 80 82 130 0 0 0 0 0 0
+low_density/9--Press_Conference__9_Press_Conference_Press_Conference_9_757.jpg
+1
+143 223 370 397 0 0 0 0 0 0
+low_density/42--Car_Racing__42_Car_Racing_Nascar_42_462.jpg
+3
+717 335 30 35 1 0 0 0 0 1
+970 303 35 45 1 0 0 0 0 0
+895 392 14 17 2 0 0 0 2 0
+low_density/30--Surgeons__30_Surgeons_Surgeons_30_861.jpg
+1
+309 261 456 580 0 0 0 0 0 0
+low_density/50--Celebration_Or_Party__50_Celebration_Or_Party_houseparty_50_654.jpg
+1
+456 244 212 210 0 0 0 0 0 0
+low_density/30--Surgeons__30_Surgeons_Surgeons_30_749.jpg
+1
+358 32 92 102 0 0 0 0 0 0
+low_density/37--Soccer__37_Soccer_soccer_ball_37_150.jpg
+1
+350 42 64 94 0 1 1 0 0 0
+low_density/17--Ceremony__17_Ceremony_Ceremony_17_1009.jpg
+1
+174 186 104 132 0 0 0 0 0 0
+low_density/33--Running__33_Running_Running_33_475.jpg
+1
+617 149 44 69 2 0 1 0 0 0
+low_density/23--Shoppers__23_Shoppers_Shoppers_23_223.jpg
+1
+474 350 82 114 0 0 0 0 0 0
+low_density/28--Sports_Fan__28_Sports_Fan_Sports_Fan_28_656.jpg
+1
+270 250 517 484 0 0 0 0 0 1
+low_density/9--Press_Conference__9_Press_Conference_Press_Conference_9_74.jpg
+3
+140 278 84 82 1 0 0 0 0 0
+458 264 82 112 0 0 0 0 0 0
+856 282 76 90 1 0 0 0 0 0
+low_density/16--Award_Ceremony__16_Award_Ceremony_Awards_Ceremony_16_566.jpg
+1
+270 219 366 501 0 0 0 0 0 0
+low_density/51--Dresses__51_Dresses_wearingdress_51_727.jpg
+3
+274 76 104 178 0 0 0 0 0 1
+602 40 64 82 0 0 0 0 0 0
+796 22 58 96 0 0 0 0 0 0
+low_density/16--Award_Ceremony__16_Award_Ceremony_Awards_Ceremony_16_143.jpg
+1
+258 223 427 629 0 0 0 0 0 0
+low_density/16--Award_Ceremony__16_Award_Ceremony_Awards_Ceremony_16_305.jpg
+2
+387 264 96 156 0 0 0 0 0 0
+592 279 90 132 0 0 0 0 0 0
+low_density/53--Raid__53_Raid_policeraid_53_649.jpg
+2
+691 39 88 140 0 0 0 0 2 0
+167 45 80 136 0 0 0 0 2 0
+low_density/31--Waiter_Waitress__31_Waiter_Waitress_Waiter_Waitress_31_932.jpg
+1
+472 288 100 146 0 0 0 0 0 0
+low_density/19--Couple__19_Couple_Couple_19_514.jpg
+2
+200 366 252 336 0 0 0 0 0 0
+2 296 198 314 0 0 0 0 0 0
+low_density/11--Meeting__11_Meeting_Meeting_11_Meeting_Meeting_11_223.jpg
+2
+314 14 168 256 1 0 0 0 0 0
+612 516 60 140 1 0 0 0 0 0
+low_density/51--Dresses__51_Dresses_wearingdress_51_612.jpg
+1
+177 9 190 246 0 0 0 0 0 0
+low_density/7--Cheering__7_Cheering_Cheering_7_631.jpg
+2
+386 223 142 187 0 0 0 0 0 0
+702 331 90 148 1 0 0 0 2 0
+low_density/57--Angler__57_Angler_peoplefishing_57_880.jpg
+2
+195 294 25 33 1 0 0 0 1 0
+131 277 29 36 2 0 0 0 0 0
+low_density/27--Spa__27_Spa_Spa_27_691.jpg
+1
+366 182 200 210 0 0 0 0 0 0
+low_density/59--people--driving--car__59_peopledrivingcar_peopledrivingcar_59_690.jpg
+2
+297 248 40 70 1 0 0 0 0 0
+743 285 45 74 1 0 1 0 0 0
+low_density/42--Car_Racing__42_Car_Racing_Car_Racing_42_857.jpg
+3
+102 124 18 23 1 0 0 0 0 0
+186 136 19 24 1 0 0 0 0 0
+159 142 8 8 2 0 0 0 0 0
+low_density/39--Ice_Skating__39_Ice_Skating_Ice_Skating_39_458.jpg
+1
+710 262 107 115 0 0 0 0 0 1
+low_density/54--Rescue__54_Rescue_rescuepeople_54_493.jpg
+1
+317 102 33 42 2 0 0 0 2 0
+low_density/4--Dancing__4_Dancing_Dancing_4_194.jpg
+2
+789 220 40 62 2 0 0 0 0 0
+584 473 54 45 2 0 0 0 0 1
+low_density/19--Couple__19_Couple_Couple_19_156.jpg
+2
+520 141 28 48 2 0 0 0 0 0
+551 130 38 47 2 0 0 0 0 0
+low_density/9--Press_Conference__9_Press_Conference_Press_Conference_9_182.jpg
+1
+440 160 94 118 0 0 0 0 0 0
+low_density/18--Concerts__18_Concerts_Concerts_18_815.jpg
+1
+314 12 162 232 1 0 0 0 1 0
+low_density/12--Group__12_Group_Group_12_Group_Group_12_610.jpg
+3
+348 130 64 72 1 0 0 0 0 1
+498 232 68 76 1 0 0 0 0 0
+898 186 68 104 0 0 0 0 0 0
+low_density/2--Demonstration__2_Demonstration_Protesters_2_881.jpg
+2
+332 288 34 47 1 0 0 0 0 0
+43 298 26 29 1 0 0 0 0 0
+low_density/45--Balloonist__45_Balloonist_Balloonist_45_857.jpg
+2
+494 356 19 28 2 0 0 0 0 0
+610 352 22 31 2 0 0 0 0 0
+low_density/12--Group__12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_868.jpg
+1
+448 90 82 114 0 0 0 0 0 0
+low_density/12--Group__12_Group_Large_Group_12_Group_Large_Group_12_853.jpg
+1
+435 264 413 564 0 0 1 0 0 0
+low_density/56--Voter__56_Voter_peoplevoting_56_1046.jpg
+1
+432 432 110 157 1 0 0 0 0 0
+low_density/28--Sports_Fan__28_Sports_Fan_Sports_Fan_28_144.jpg
+1
+117 236 665 826 0 0 0 0 0 0
+low_density/8--Election_Campain__8_Election_Campain_Election_Campaign_8_357.jpg
+1
+203 300 127 170 0 0 0 0 0 0
+low_density/21--Festival__21_Festival_Festival_21_354.jpg
+1
+272 142 455 561 0 0 0 0 0 0
+low_density/2--Demonstration__2_Demonstration_Protesters_2_714.jpg
+3
+188 406 64 94 1 1 0 0 0 0
+396 476 60 72 1 0 0 0 0 0
+626 376 62 86 2 0 0 0 0 0
+low_density/23--Shoppers__23_Shoppers_Shoppers_23_65.jpg
+3
+351 167 31 39 2 0 0 0 1 0
+478 95 28 59 2 0 0 0 2 0
+878 129 34 46 2 0 0 0 2 0
+low_density/48--Parachutist_Paratrooper__48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_892.jpg
+3
+188 265 114 161 0 0 0 0 0 0
+473 134 121 151 0 0 0 0 0 0
+658 191 121 175 0 0 0 0 0 0
+low_density/17--Ceremony__17_Ceremony_Ceremony_17_469.jpg
+3
+265 347 38 28 1 0 0 0 0 1
+761 286 39 52 1 0 0 0 0 0
+798 298 34 57 1 0 0 0 0 0
+low_density/30--Surgeons__30_Surgeons_Surgeons_30_819.jpg
+3
+357 21 54 77 0 0 0 0 0 0
+465 23 45 63 0 0 0 0 0 0
+579 39 52 73 0 0 0 0 0 0
+low_density/43--Row_Boat__43_Row_Boat_Canoe_43_1047.jpg
+1
+474 22 108 166 0 0 0 0 0 0
+low_density/12--Group__12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_319.jpg
+1
+448 202 100 136 0 0 0 0 1 0
+low_density/54--Rescue__54_Rescue_rescuepeople_54_526.jpg
+1
+472 21 59 75 1 0 0 0 0 1
+low_density/50--Celebration_Or_Party__50_Celebration_Or_Party_houseparty_50_641.jpg
+1
+371 169 317 466 0 0 0 0 0 0
+low_density/47--Matador_Bullfighter__47_Matador_Bullfighter_Matador_Bullfighter_47_617.jpg
+1
+171 11 540 684 0 0 0 0 0 0
+low_density/31--Waiter_Waitress__31_Waiter_Waitress_Waiter_Waitress_31_227.jpg
+2
+260 90 148 192 0 0 0 0 0 0
+619 213 145 204 0 0 0 0 0 0
+low_density/8--Election_Campain__8_Election_Campain_Election_Campaign_8_25.jpg
+1
+590 154 180 240 0 0 1 0 0 0
+low_density/40--Gymnastics__40_Gymnastics_Gymnastics_40_197.jpg
+1
+490 471 125 178 0 0 0 0 0 1
+low_density/31--Waiter_Waitress__31_Waiter_Waitress_Waiter_Waitress_31_722.jpg
+1
+469 72 155 213 0 0 0 0 0 0
+low_density/1--Handshaking__1_Handshaking_Handshaking_1_275.jpg
+1
+432 210 222 312 0 0 0 0 0 0
+low_density/50--Celebration_Or_Party__50_Celebration_Or_Party_houseparty_50_735.jpg
+1
+200 27 379 552 0 0 0 0 1 0
+low_density/31--Waiter_Waitress__31_Waiter_Waitress_Waiter_Waitress_31_195.jpg
+2
+183 57 147 198 0 0 0 0 0 0
+617 91 143 206 0 0 0 0 0 0
+low_density/14--Traffic__14_Traffic_Traffic_14_253.jpg
+1
+318 120 104 120 0 0 0 0 0 0
+low_density/22--Picnic__22_Picnic_Picnic_22_208.jpg
+2
+706 192 76 116 0 0 0 0 0 0
+118 290 66 96 0 0 0 0 0 0
+low_density/51--Dresses__51_Dresses_wearingdress_51_386.jpg
+1
+357 203 384 540 0 0 0 0 0 0
+low_density/13--Interview__13_Interview_Interview_Sequences_13_884.jpg
+1
+256 178 54 82 0 0 0 0 0 0
+low_density/23--Shoppers__23_Shoppers_Shoppers_23_25.jpg
+3
+453 58 34 69 1 0 0 0 0 0
+368 105 14 26 2 0 0 0 0 0
+887 80 24 32 2 0 0 0 2 0
+low_density/42--Car_Racing__42_Car_Racing_Nascar_42_482.jpg
+1
+393 183 303 405 0 0 0 0 0 0
+low_density/54--Rescue__54_Rescue_firemanrescue_54_939.jpg
+1
+156 108 72 102 0 0 0 0 0 0
+low_density/48--Parachutist_Paratrooper__48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_205.jpg
+1
+508 224 96 118 0 0 0 0 0 0
+low_density/13--Interview__13_Interview_Interview_On_Location_13_636.jpg
+3
+187 42 55 75 1 0 1 0 0 0
+723 109 35 48 1 0 1 0 0 0
+798 114 32 42 1 0 1 0 0 0
+low_density/39--Ice_Skating__39_Ice_Skating_Ice_Skating_39_163.jpg
+2
+263 134 48 70 1 0 0 0 0 0
+533 460 57 72 1 0 0 0 0 0
+low_density/13--Interview__13_Interview_Interview_Sequences_13_813.jpg
+1
+390 154 205 299 0 0 0 0 0 0
+low_density/46--Jockey__46_Jockey_Jockey_46_758.jpg
+1
+363 147 227 296 0 0 0 0 0 0
+low_density/32--Worker_Laborer__32_Worker_Laborer_Worker_Laborer_32_134.jpg
+1
+465 333 96 138 0 0 0 0 0 0
+low_density/8--Election_Campain__8_Election_Campain_Election_Campaign_8_266.jpg
+2
+283 105 136 220 0 0 0 0 0 0
+631 231 103 161 0 0 0 0 0 0
+low_density/28--Sports_Fan__28_Sports_Fan_Sports_Fan_28_282.jpg
+1
+292 184 466 652 0 1 0 0 1 0
+low_density/53--Raid__53_Raid_policeraid_53_396.jpg
+1
+300 2 492 542 0 0 0 0 0 0
+low_density/45--Balloonist__45_Balloonist_Balloonist_45_434.jpg
+1
+578 80 166 236 0 0 0 0 0 0
+low_density/55--Sports_Coach_Trainer__55_Sports_Coach_Trainer_sportcoaching_55_263.jpg
+1
+318 34 78 96 0 0 0 0 0 0
+low_density/1--Handshaking__1_Handshaking_Handshaking_1_209.jpg
+2
+196 138 94 142 0 0 0 0 0 0
+616 38 80 176 0 0 0 0 0 1
+low_density/53--Raid__53_Raid_policeraid_53_272.jpg
+3
+312 230 18 30 2 0 0 0 0 0
+583 235 22 28 2 0 0 0 0 0
+903 189 18 25 1 0 0 0 0 0
+low_density/19--Couple__19_Couple_Couple_19_770.jpg
+2
+624 386 60 80 1 0 0 0 0 0
+698 376 56 76 1 0 0 0 0 0
+low_density/24--Soldier_Firing__24_Soldier_Firing_Soldier_Firing_24_523.jpg
+1
+324 178 172 94 0 0 0 0 0 1
+low_density/40--Gymnastics__40_Gymnastics_Gymnastics_40_762.jpg
+1
+580 441 123 183 0 0 0 0 0 1
+low_density/39--Ice_Skating__39_Ice_Skating_iceskiing_39_121.jpg
+2
+196 36 128 168 0 0 0 0 0 0
+670 58 100 130 0 0 0 0 0 0
+low_density/2--Demonstration__2_Demonstration_Protesters_2_905.jpg
+3
+668 398 59 68 2 0 0 0 0 0
+484 436 48 63 2 0 0 0 0 0
+249 467 52 69 2 0 0 0 0 0
+low_density/13--Interview__13_Interview_Interview_Sequences_13_121.jpg
+1
+418 144 244 350 0 0 0 0 0 0
+low_density/41--Swimming__41_Swimming_Swimmer_41_773.jpg
+1
+120 78 408 540 0 0 0 0 0 0
+low_density/4--Dancing__4_Dancing_Dancing_4_1000.jpg
+1
+316 240 400 608 0 0 0 0 0 0
+low_density/8--Election_Campain__8_Election_Campain_Election_Campaign_8_529.jpg
+1
+276 138 180 248 0 0 0 0 0 0
+low_density/10--People_Marching__10_People_Marching_People_Marching_2_577.jpg
+2
+602 301 137 183 1 0 1 0 0 0
+333 446 118 145 1 0 1 0 0 0
+low_density/9--Press_Conference__9_Press_Conference_Press_Conference_9_767.jpg
+1
+281 167 399 573 0 0 0 0 0 0
+low_density/56--Voter__56_Voter_peoplevoting_56_441.jpg
+1
+212 240 98 160 1 0 0 0 0 0
+low_density/9--Press_Conference__9_Press_Conference_Press_Conference_9_252.jpg
+1
+296 124 400 542 0 0 0 0 0 0
+low_density/38--Tennis__38_Tennis_Tennis_38_558.jpg
+1
+480 182 171 197 0 0 0 0 0 0
+low_density/43--Row_Boat__43_Row_Boat_Canoe_43_956.jpg
+1
+356 158 58 58 0 0 1 0 0 1
+low_density/12--Group__12_Group_Large_Group_12_Group_Large_Group_12_650.jpg
+3
+282 238 88 110 0 0 0 0 0 0
+498 206 86 130 0 0 0 0 0 0
+810 172 78 108 0 0 0 0 0 0
+low_density/57--Angler__57_Angler_peoplefishing_57_120.jpg
+2
+476 347 61 52 1 0 0 0 0 1
+248 161 17 20 2 0 0 0 1 0
+low_density/18--Concerts__18_Concerts_Concerts_18_1016.jpg
+1
+193 170 140 176 0 0 0 0 0 0
