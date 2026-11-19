@@ -61,8 +61,18 @@ python -m pip install -r requirements.txt
 ```
 
 
-**Note:** This repository uses Git LFS to store large model checkpoints. Please install Git LFS before cloning the repository to ensure that the trained models are downloaded correctly.
+### Pretrained Sticker Detection Models
 
+The pretrained sticker detection models are available in the [GitHub Releases](https://github.com/Simula-COMPLEX/mrgs-artifact/releases/tag/v1.0.0) section.
+
+Download the checkpoints and place them in their corresponding directories as follows:
+
+| Model | Release Asset | Destination Directory |
+|---|---|---|
+| SSD300 VGG16 | `epoch.33-step.4114.ckpt` | `use-cases/sticker-detection/models/ssd300_vgg16/` |
+| SSDLite320 MobileNetV3 Large | `epoch.18-step.9139.ckpt` | `use-cases/sticker-detection/models/ssdlite320_mobilenet_v3_large/` |
+
+**Note:** Download both checkpoints before running the sticker detection experiments.
 
 ## Publication
 
